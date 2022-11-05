@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+}
+li {
+  margin-top: 15px;
+  list-style-type: none;
+}
+span {
+  font-weight: bold;
+}
+
+.container {
+  text-align: center;
+  font-size: 20px;
+}
